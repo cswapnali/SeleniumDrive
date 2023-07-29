@@ -3,7 +3,7 @@
 This Python-based web scraping project utilizes Selenium to extract product details from Flipkart. Users can search for specific products, and the application collects information like names, prices, ratings, reviews, and links. The scraped data is stored in a CSV file. 
 
 ### Key Features:
-•	Search for specific products and scrape their names, prices, ratings, reviews, and links.
+•	Search for specific products and scrape their names, prices, ratings, reviews, and links. '\n'
 •	Utilizes Selenium for web scraping and Python for data extraction.
 •	Stores the scraped data in a CSV file for easy access and analysis.
 
